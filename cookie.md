@@ -15,4 +15,4 @@ Instructions
  
 URl: https/:/www.allrecipies.com/recipe/244642/5-ingredient-easy-chocolate-chip-cookies.
 
-This project is made for CEP146 course AKA: git exerise.
+This project is made for CEP146 course AKA: git exercise.
